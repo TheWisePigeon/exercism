@@ -1,4 +1,4 @@
-package lasagna
+package main
 
 const OvenTime = 40
 
